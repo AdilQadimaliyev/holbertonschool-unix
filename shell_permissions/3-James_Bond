@@ -1,4 +1,2 @@
 #!/bin/bash
 chmod 007 hello
-chmod u+x 3-James_Bond
-
